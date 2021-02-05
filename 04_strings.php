@@ -1,8 +1,12 @@
 <?php
 
 // Create simple string
+$string = 'Bradley';
+$string2 = "You?";
 
 // String concatenation
+$sentence = "Hello $string. How are $string2";
+echo $sentence;
 
 // String functions
 

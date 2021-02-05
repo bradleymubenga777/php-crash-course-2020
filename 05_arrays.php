@@ -2,6 +2,8 @@
 
 // Create array
 
+
+
 // Print the whole array
 
 // Get element by index
@@ -59,3 +61,4 @@
 
 
 // Two dimensional arrays
+?>
